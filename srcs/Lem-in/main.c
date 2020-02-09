@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "validator.h"
-changed by ivan
+
 int		main(void)
 {
 	t_data	data;
@@ -38,5 +38,4 @@ int		main(void)
 	print_ants_rooms_links(&data);
 	move_ant(&data, array, paths);
 	return (ft_free(&data, &array, &paths));
-	hi
 }
