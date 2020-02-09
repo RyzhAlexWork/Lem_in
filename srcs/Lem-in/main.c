@@ -38,4 +38,5 @@ int		main(void)
 	print_ants_rooms_links(&data);
 	move_ant(&data, array, paths);
 	return (ft_free(&data, &array, &paths));
+	hi
 }
