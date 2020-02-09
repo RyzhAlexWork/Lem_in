@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "validator.h"
-del
+changed by ivan
 int		main(void)
 {
 	t_data	data;
